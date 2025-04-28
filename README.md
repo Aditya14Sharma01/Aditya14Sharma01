@@ -10,6 +10,7 @@ Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya14sharma01&layout=compact&theme=radical)
 
+![](235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
 ## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)

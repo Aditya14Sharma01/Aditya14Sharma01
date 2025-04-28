@@ -1,28 +1,27 @@
 # Hi there 👋, I'm Aditya Sharma!
 
-![Header](https://your-image-link.com/header.png)
+![Header](#)
 
 Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
-## 💻 Tech Stack
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=yellow" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=007ACC" />
-  <!-- Add more badges -->
-</div>
+![Aditya Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aditya14sharma01&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditya14sharma01&layout=compact&theme=radical)
+
+## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 
 ## 👀 Profile Views
-![Visitor Count](https://profile-counter.glitch.me/your-username/count.svg)
 
-## 🔗 Connect with me
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-link)
-[![Instagram](https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+![Visitor Count](https://profile-counter.glitch.me/aditya14sharma01/count.svg)
 
-## 📈 GitHub Activity Graph
-[![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🤝 Connect with me
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](#)

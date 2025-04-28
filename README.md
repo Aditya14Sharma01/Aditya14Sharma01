@@ -1,7 +1,4 @@
 # Hi there 👋, I'm Aditya Sharma!
-<p align="center">
-  <img src="https://i.imgur.com/XE7cPDU.gif" alt="Aditya Animated Banner" />
-</p>
 
 ![Header](#)
 
@@ -28,7 +25,7 @@ Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 ## 🤝 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya14Sharma01)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya1401sharma)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-link)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](your-facebook-link)

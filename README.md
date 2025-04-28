@@ -28,8 +28,6 @@ Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 
 ## 🤝 Connect with me
 
-## 🤝 Connect with me
-
 [![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aditya14Sharma01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya1401sharma)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-link)

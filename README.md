@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aditya Sharma!
 
-![Header](#)
+![Header](https://hackernoon.com/images/f2px36fy.gif)
 
 Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 

@@ -12,9 +12,14 @@ Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 
 ## 🛠 Tech Stack
 
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 
 ## 👀 Profile Views
 

@@ -1,8 +1,8 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Aditya Sharma!
 
 ![Header](https://your-image-link.com/header.png)
 
-Welcome 🌍! I'm [Your Name] and I'm a Developer, from Earth 🚀
+Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)

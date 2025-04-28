@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aditya Sharma!
 
-![Header](https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif)
+![Header](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdxZXh0M2NlZHU2eTdpMHFyanR2OTZpODdscDAyeTgzNnltcnRlaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NHvv0Bo3oGq1eTBDd1/giphy.gif)
 
 Welcome 🌍! I'm Aditya Sharma and I'm a Developer, from Earth 🚀
 
